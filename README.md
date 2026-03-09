@@ -1,39 +1,37 @@
-# Hi 👋 I'm Enes
+<h1 align="center">Hi 👋, I'm Enes</h1>
+<h3 align="center">Artificial Intelligence & Data Engineering Student</h3>
 
-🎓 3rd Year Artificial Intelligence & Data Engineering Student  
-💻 Interested in Artificial Intelligence, Machine Learning and Data Science  
-🚀 Currently learning Deep Learning and C#  
+<p align="center">
+🚀 Passionate about Artificial Intelligence, Machine Learning and Data Science
+</p>
 
----
+### 🧠 About Me
 
-## 🧠 About Me
+- 🎓 3rd Year Artificial Intelligence & Data Engineering Student
+- 🤖 Interested in Artificial Intelligence, Machine Learning and Data Science
+- 💻 I mainly code with Python
+- 📚 Currently learning Deep Learning and C#
+- 🚀 Looking for internship opportunities
 
-- 🎓 Artificial Intelligence & Data Engineering Student
-- 🤖 Interested in AI, Machine Learning and Data Science
-- 💻 Love building projects with Python
-- 📚 Currently improving my programming and algorithm skills
+### 🚀 Languages and Tools
 
----
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,c,cpp,git,github,tensorflow,pytorch,linux,vscode" />
+</p>
 
-## 🚀 Languages and Tools
+### 📊 GitHub Stats
 
-![My Skills](https://skillicons.dev/icons?i=python,cpp,c,git,github,tensorflow,pytorch)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=enescabbarakaca29&show_icons=true&theme=tokyonight)
 
----
-
-## 📊 GitHub Stats
-
-![Enes's GitHub stats](https://github-readme-stats.vercel.app/api?username=enescabbarakaca29&show_icons=true&theme=tokyonight)
-
----
-
-## 📈 Most Used Languages
+### 📈 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enescabbarakaca29&layout=compact&theme=tokyonight)
 
----
+### 🔥 GitHub Activity
 
-## 📫 Contact
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=enescabbarakaca29&theme=tokyo-night)
 
-📧 Email: enesakca2940@gmail.com
+### 📫 Contact Me
 
+- 📧 Email: yourmail@example.com
+- 💼 LinkedIn: linkedin.com/in/yourname
