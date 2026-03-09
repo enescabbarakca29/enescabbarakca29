@@ -42,8 +42,8 @@ Artificial Intelligence & Data Engineering Student
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=enescabbarakca29&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=enescabbarakca29&theme=github_dark" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=enescabbarakca29&theme=github_dark" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=enescabbarakca29&theme=github_dark" />
 </p>
 
 ---
