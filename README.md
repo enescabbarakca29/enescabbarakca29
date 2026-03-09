@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋 I'm Enes
 
-<!--
-**enescabbarakca29/enescabbarakca29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year Artificial Intelligence & Data Engineering Student  
+💻 Interested in Artificial Intelligence, Machine Learning and Data Science  
+🚀 Currently learning Deep Learning and C#  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+- 🎓 Artificial Intelligence & Data Engineering Student
+- 🤖 Interested in AI, Machine Learning and Data Science
+- 💻 Love building projects with Python
+- 📚 Currently improving my programming and algorithm skills
+
+---
+
+## 🚀 Languages and Tools
+
+![My Skills](https://skillicons.dev/icons?i=python,cpp,c,git,github,tensorflow,pytorch)
+
+---
+
+## 📊 GitHub Stats
+
+![Enes's GitHub stats](https://github-readme-stats.vercel.app/api?username=enescabbarakaca29&show_icons=true&theme=tokyonight)
+
+---
+
+## 📈 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enescabbarakaca29&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contact
+
+📧 Email: yourmail@example.com  
+💼 LinkedIn: (isteğe bağlı)
