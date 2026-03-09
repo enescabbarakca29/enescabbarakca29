@@ -27,7 +27,7 @@ Artificial Intelligence & Data Engineering Student
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nodejs,tensorflow,pytorch,docker,mongodb" />
-<img height="48" src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" />
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mlflow/mlflow-original.svg"/>
 </p>
 
 ---
