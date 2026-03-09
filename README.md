@@ -50,6 +50,14 @@
 
 ---
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/enescabbarakaca29/enescabbarakaca29/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
 ### 📫 Contact
 
 - 📧 Email: seninmailin@example.com
