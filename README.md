@@ -27,7 +27,7 @@ Artificial Intelligence & Data Engineering Student
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nodejs,tensorflow,pytorch,docker,mongodb" />
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+<img height="40" src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white"/>
 </p>
 
 ---
@@ -42,11 +42,11 @@ Artificial Intelligence & Data Engineering Student
 
 ### 📊 GitHub Stats
 
-<p>
+<p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=enescabbarakca29&theme=github_dark" />
 </p>
 
-<p>
+<p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=enescabbarakca29&theme=github_dark" />
 </p>
 
