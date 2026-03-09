@@ -2,7 +2,7 @@
 <h3 align="center">Artificial Intelligence & Data Engineering Student</h3>
 
 <p align="center">
-  🚀 Passionate about Artificial Intelligence, Machine Learning and Data Science
+🚀 Passionate about Artificial Intelligence, Machine Learning and Data Science
 </p>
 
 ---
@@ -20,7 +20,7 @@
 ### 🚀 Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,git,github,tensorflow,pytorch,linux,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,git,github,tensorflow,pytorch,linux,vscode"/>
 </p>
 
 ---
@@ -28,8 +28,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enescabbarakaca29&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enescabbarakaca29&layout=compact&theme=tokyonight&langs_count=8"/>
+<img src="https://github-readme-stats.vercel.app/api?username=enescabbarakaca29&show_icons=true&theme=tokyonight&count_private=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enescabbarakaca29&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -37,7 +40,7 @@
 ### 🔥 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=enescabbarakaca29&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=enescabbarakaca29&theme=tokyo-night"/>
 </p>
 
 ---
@@ -45,7 +48,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=enescabbarakaca29&theme=tokyonight&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=enescabbarakaca29&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
@@ -53,12 +56,12 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/enescabbarakaca29/enescabbarakaca29/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/enescabbarakaca29/enescabbarakaca29/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
 ### 📫 Contact
 
-- 📧 Email: seninmailin@example.com
-- 💼 LinkedIn: linkedin.com/in/senin-linkedin-linkin
+- 📧 Email: seninmail@example.com
+- 💼 LinkedIn: linkedin.com/in/seninlinkin
