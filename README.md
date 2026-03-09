@@ -26,7 +26,7 @@ Artificial Intelligence & Data Engineering Student
 ### ⚙️ Frameworks & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,expo,tensorflow,pytorch,docker,mongodb" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,tensorflow,pytorch,docker,mongodb" />
 </p>
 
 ---
@@ -34,7 +34,7 @@ Artificial Intelligence & Data Engineering Student
 ### 🛠️ Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,windows,vscode,jenkins" />
+<img src="https://skillicons.dev/icons?i=git,github,windows,vscode,jenkins" />
 </p>
 
 ---
