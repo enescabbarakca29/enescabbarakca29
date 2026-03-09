@@ -34,7 +34,7 @@ Artificial Intelligence & Data Engineering Student
 ### 🛠️ Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,windows,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,windows,vscode,jenkins" />
 </p>
 
 ---
@@ -42,7 +42,11 @@ Artificial Intelligence & Data Engineering Student
 ### 📊 GitHub Stats
 
 <p>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=enescabbarakca29&show_icons=true&theme=default"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=enescabbarakca29&show_icons=true"/>
+</p>
+
+<p>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=enescabbarakca29&layout=compact"/>
 </p>
 
 ---
