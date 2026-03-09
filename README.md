@@ -42,7 +42,7 @@ Artificial Intelligence & Data Engineering Student
 ### 📊 GitHub Stats
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=enescabbarakca29&show_icons=true"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=enescabbarakca29&layout=compact"/>
 </p>
 
 ---
