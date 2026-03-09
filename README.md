@@ -20,7 +20,7 @@
 ### 🚀 Languages and Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,git,github,tensorflow,pytorch,linux,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,git,java,github,tensorflow,pytorch,linux,vscode"/>
 </p>
 
 ---
@@ -63,5 +63,5 @@
 
 ### 📫 Contact
 
-- 📧 Email: seninmail@example.com
-- 💼 LinkedIn: linkedin.com/in/seninlinkin
+- 📧 Email: enesakca2940@gmail.com
+
