@@ -48,7 +48,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=enescabbarakca29&theme=tokyonight&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=enescabbarakca29&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
