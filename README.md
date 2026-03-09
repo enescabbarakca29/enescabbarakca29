@@ -28,11 +28,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=enescabbarakca29&show_icons=true&theme=tokyonight&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=enescabbarakca29&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enescabbarakca29&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enescabbarakca29&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 ---
@@ -48,7 +48,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=enescabbarakca29&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=enescabbarakca29&theme=tokyonight&margin-w=15"/>
 </p>
 
 ---
