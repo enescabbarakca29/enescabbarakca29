@@ -26,7 +26,7 @@ Artificial Intelligence & Data Engineering Student
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=react,nodejs,tensorflow,pytorch,docker,mongodb" />
-<img height="48" src="https://cdn.simpleicons.org/mlflow/0194E2" />
+<img height="48" src="https://cdn.simpleicons.org/mlflow/0194E2"/>
 </p>
 
 ---
