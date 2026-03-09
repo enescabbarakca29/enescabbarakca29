@@ -18,7 +18,7 @@ Artificial Intelligence & Data Engineering Student
 ### 🧠 Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,sql" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,HTML,java,js,sql" />
 </p>
 
 ---
