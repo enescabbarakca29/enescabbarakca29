@@ -11,7 +11,6 @@ Artificial Intelligence & Data Engineering Student
 - Interested in Artificial Intelligence, Machine Learning and Software Development  
 - Mostly working with Python  
 - Currently learning Deep Learning and C#  
-- Looking for internship opportunities  
 
 ---
 
