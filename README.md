@@ -20,7 +20,7 @@
 ### 🚀 Languages and Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,git,java,github,tensorflow,pytorch,linux,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,git,github,tensorflow,pytorch,linux,vscode"/>
 </p>
 
 ---
@@ -28,11 +28,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=enescabbarakca29&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800"/>
+<img src="https://github-readme-stats.vercel.app/api?username=enescabbarakca29&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enescabbarakca29&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enescabbarakca29&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -48,7 +48,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=enescabbarakca29&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=enescabbarakca29&theme=onedark"/>
 </p>
 
 ---
@@ -64,4 +64,3 @@
 ### 📫 Contact
 
 - 📧 Email: enesakca2940@gmail.com
-
