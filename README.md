@@ -12,7 +12,7 @@
 - 🎓 3rd Year Artificial Intelligence & Data Engineering Student
 - 🤖 Interested in AI, Machine Learning and Data Science
 - 💻 I mainly code with Python
-- 📚 Currently learning Deep Learning and C#
+- 🖥️ Currently learning Deep Learning and C#
 - 🚀 Looking for internship opportunities
 
 ---
