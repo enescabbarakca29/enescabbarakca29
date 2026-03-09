@@ -8,17 +8,33 @@ Artificial Intelligence & Data Engineering Student
 ### 👨‍💻 About Me
 
 - 3rd Year Artificial Intelligence & Data Engineering Student  
-- Interested in Artificial Intelligence and Machine Learning  
+- Interested in Artificial Intelligence, Machine Learning and Software Development  
 - Mostly working with Python  
 - Currently learning Deep Learning and C#  
 - Looking for internship opportunities  
 
 ---
 
-### 🛠️ Languages & Tools
+### 🧠 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,git,github,tensorflow,pytorch,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,sql" />
+</p>
+
+---
+
+### ⚙️ Frameworks & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,tensorflow,pytorch,docker,mongodb" />
+</p>
+
+---
+
+### 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
 </p>
 
 ---
@@ -26,7 +42,7 @@ Artificial Intelligence & Data Engineering Student
 ### 📊 GitHub Stats
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=enescabbarakca29&show_icons=true&theme=default"/>
+<img src="https://github-readme-stats.vercel.app/api?username=enescabbarakca29&show_icons=true"/>
 </p>
 
 ---
