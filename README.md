@@ -35,5 +35,5 @@
 
 ## 📫 Contact
 
-📧 Email: yourmail@example.com  
-💼 LinkedIn: (isteğe bağlı)
+📧 Email: enesakca2940@gmail.com
+
