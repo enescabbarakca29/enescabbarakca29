@@ -34,7 +34,7 @@ Artificial Intelligence & Data Engineering Student
 ### 🛠️ Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,windows,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,windows,vscode" />
 </p>
 
 ---
