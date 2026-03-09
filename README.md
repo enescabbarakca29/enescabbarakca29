@@ -28,11 +28,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=enescabbarakaca29&show_icons=true&theme=tokyonight&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=enescabbarakca29&show_icons=true&theme=tokyonight&count_private=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enescabbarakaca29&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enescabbarakca29&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -40,7 +40,7 @@
 ### 🔥 GitHub Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=enescabbarakaca29&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=enescabbarakca29&theme=tokyo-night"/>
 </p>
 
 ---
@@ -48,7 +48,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=enescabbarakaca29&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=enescabbarakca29&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
@@ -56,7 +56,7 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/enescabbarakaca29/enescabbarakaca29/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/enescabbarakca29/enescabbarakca29/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
