@@ -9,7 +9,7 @@ Artificial Intelligence & Data Engineering Student
 
 - 3rd Year Artificial Intelligence & Data Engineering Student  
 - Interested in Artificial Intelligence, Machine Learning and Software Development  
-- Mostly working with Python  
+- Mostly working with Python and Java
 - Currently learning Deep Learning and C#  
 
 ---
