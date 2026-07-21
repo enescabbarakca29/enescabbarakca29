@@ -47,7 +47,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=enescabbarakca29&show_icons=true&theme=github_dark&hide_border=true" alt="Enes's GitHub Stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=enescabbarakca29&theme=github-dark&hide_border=true" alt="GitHub Streak" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enescabbarakca29&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
 
