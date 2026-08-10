@@ -47,8 +47,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=enescabbarakca29&show_icons=true&theme=github_dark&hide_border=true" alt="Enes's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enescabbarakca29&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enescabbarakca29&theme=github_dark" />
+</p>
+<p align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=enescabbarakca29&theme=github_dark" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=enescabbarakca29&theme=github_dark" />
 </p>
 
 ---
