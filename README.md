@@ -46,9 +46,11 @@
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=enescabbarakca29&show_icons=true&theme=github_dark&hide_border=true" alt="Enes's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=enescabbarakca29&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=enescabbarakca29&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" alt="Enes's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enescabbarakca29&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 ---
